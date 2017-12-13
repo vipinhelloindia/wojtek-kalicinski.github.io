@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.recipe_app",
+    "package_name": "com.jeevansathi.android",
     "sha256_cert_fingerprints":
-    ["B6:94:02:F5:90:8A:DA:79:F4:B7:E9:12:A0:CA:57:35:FB:88:45:A9:4B:09:84:83:BA:CB:AE:ED:EB:91:C9:1E"]
+    ["25:B4:B5:A4:A3:F7:BA:6E:3C:BB:19:07:46:C3:08:CE:CC:5E:75:B2:7E:B5:B8:61:5E:D0:1C:FB:B4:FF:64:22"]
   }
 }]
